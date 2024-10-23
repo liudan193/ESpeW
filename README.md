@@ -43,13 +43,7 @@ bash commands/run_sst2_EspeW.sh
 If this project is useful for your research, please consider citing our paper: 
 
 ```bibtex
-@article{liu2024thinking,
-  title={Thinking Racial Bias in Fair Forgery Detection: Models, Datasets and Evaluations},
-  author={Liu, Decheng and Wang, Zongqi and Peng, Chunlei and Wang, Nannan and Hu, Ruimin and Gao, Xinbo},
-  journal={arXiv preprint arXiv:2407.14367},
-  year={2024},
-  url={https://arxiv.org/abs/2407.14367v2}
-}
+paper is coming
 ```
 
 ## Acknowledgement
