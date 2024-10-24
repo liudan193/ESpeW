@@ -1,6 +1,6 @@
 # ESpeW
 
-[![Paper](https://img.shields.io/badge/arXiv-2407.14367v2-blue)](https://arxiv.org/abs/2410.17552)
+[![Paper](https://img.shields.io/badge/arXiv-2410.17552-blue)](https://arxiv.org/abs/2410.17552)
 
 ![Main](fig/main.jpg)
 
