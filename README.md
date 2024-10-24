@@ -4,7 +4,7 @@
 
 ![Main](fig/main.jpg)
 
-This is the official project repository for the paper ["ESpeW: Robust Copyright Protection for LLM-based EaaS via Embedding-Specific Watermark"](https://arxiv.org/abs/2410.17552). Arxiv link is comming. 
+This is the official project repository for the paper ["ESpeW: Robust Copyright Protection for LLM-based EaaS via Embedding-Specific Watermark"](https://arxiv.org/abs/2410.17552). 
 
 ## 🔽 Environment
 
