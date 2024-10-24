@@ -1,8 +1,10 @@
 # ESpeW
 
+[![Paper](https://img.shields.io/badge/arXiv-2407.14367v2-blue)](https://arxiv.org/abs/2410.17552)
+
 ![Main](fig/main.jpg)
 
-This is the official project repository for the paper ["ESpeW: Robust Copyright Protection for LLM-based EaaS via Embedding-Specific Watermark"](xxx). Arxiv link is comming. 
+This is the official project repository for the paper ["ESpeW: Robust Copyright Protection for LLM-based EaaS via Embedding-Specific Watermark"](https://arxiv.org/abs/2410.17552). Arxiv link is comming. 
 
 ## 🔽 Environment
 
@@ -43,12 +45,14 @@ bash commands/run_sst2_EspeW.sh
 If this project is useful for your research, please consider citing our paper: 
 
 ```bibtex
-@article{liu2024thinking,
-  title={Thinking Racial Bias in Fair Forgery Detection: Models, Datasets and Evaluations},
-  author={Liu, Decheng and Wang, Zongqi and Peng, Chunlei and Wang, Nannan and Hu, Ruimin and Gao, Xinbo},
-  journal={arXiv preprint arXiv:2407.14367},
-  year={2024},
-  url={https://arxiv.org/abs/2407.14367v2}
+@misc{wang2024espewrobustcopyrightprotection,
+      title={ESpeW: Robust Copyright Protection for LLM-based EaaS via Embedding-Specific Watermark}, 
+      author={Zongqi Wang and Baoyuan Wu and Jingyuan Deng and Yujiu Yang},
+      year={2024},
+      eprint={2410.17552},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.17552}, 
 }
 ```
 
