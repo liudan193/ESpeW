@@ -4,7 +4,7 @@
 
 ![Main](fig/main.jpg)
 
-This is the official project repository for the paper ["ESpeW: Robust Copyright Protection for LLM-based EaaS via Embedding-Specific Watermark"](https://arxiv.org/abs/2410.17552). 
+This is the official project repository for the paper ["Robust and Minimally Invasive Watermarking for EaaS"](https://arxiv.org/abs/2410.17552). 
 
 ## 🔽 Environment
 
@@ -45,8 +45,8 @@ bash commands/run_sst2_EspeW.sh
 If this project is useful for your research, please consider citing our paper: 
 
 ```bibtex
-@misc{wang2024espewrobustcopyrightprotection,
-      title={ESpeW: Robust Copyright Protection for LLM-based EaaS via Embedding-Specific Watermark}, 
+@misc{wang2024espew,
+      title={Robust and Minimally Invasive Watermarking for EaaS}, 
       author={Zongqi Wang and Baoyuan Wu and Jingyuan Deng and Yujiu Yang},
       year={2024},
       eprint={2410.17552},
