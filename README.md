@@ -4,7 +4,7 @@
 
 ![Main](fig/main.jpg)
 
-This is the official project repository for the paper ["Robust and Minimally Invasive Watermarking for EaaS"](https://arxiv.org/abs/2410.17552). 
+This is the official project repository for the ACL 2025 paper ["Robust and Minimally Invasive Watermarking for EaaS"](https://arxiv.org/abs/2410.17552). 
 
 ## 🔽 Environment
 
